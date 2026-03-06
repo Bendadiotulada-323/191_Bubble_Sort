@@ -20,3 +20,10 @@ void input()
             cout << "Error : Maksimal input array adalah 20\n";
         }
     }
+
+void display()
+{
+    cout << endl;
+    cout << "=================================" << endl;
+    cout << "element array yang telah tersusun" << endl;
+    cout << "=================================" << endl;
