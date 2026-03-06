@@ -27,3 +27,6 @@ void display()
     cout << "=================================" << endl;
     cout << "element array yang telah tersusun" << endl;
     cout << "=================================" << endl;
+
+      for (int i = 0; i < n; i++)
+      
